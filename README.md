@@ -1,6 +1,16 @@
+<!--
+ * @Author: Leslie
+ * @Date: 2022-08-02 17:39:17
+ * @LastEditors: Leslie
+ * @LastEditTime: 2022-08-02 19:20:13
+ * @FilePath: /undefined/Users/leslie/Desktop/Mac EFI Tools/Hackintosh/HP-ProDesk-680-G6-Hackintosh/README.md
+ * @Description: 
+ * 
+ * Copyright (c) 2022 by LeslieD, All Rights Reserved. 
+-->
 # HP-ProDesk-680-G6-Hackintosh
 
-![image](https://user-images.githubusercontent.com/46889782/124578101-7c72a380-de80-11eb-9213-97e6648ca5f0.png)
+![image](About.png)
 ### 硬件配置
 
 处理器：Intel Core i7-10700
@@ -27,4 +37,3 @@
 
 2、风扇转速不显示
 
-3、USB只用了前面板的6个，后面的没用到所以也没加。
