@@ -840,7 +840,7 @@
                 <key>HibernateSkipsPicker</key>
                 <false/>
                 <key>HideAuxiliary</key>
-                <true/>
+                <false/>
                 <key>InstanceIdentifier</key>
                 <string></string>
                 <key>LauncherOption</key>
@@ -917,7 +917,7 @@
                     <key>Name</key>
                     <string>Ubuntu</string>
                     <key>Path</key>
-                    <string>PciRoot(0x0)/Pci(0x1B,0x0)/Pci(0x0,0x0)/NVMe(0x1,7B-6D-B3-11-A1-38-25-00)/HD(3,GPT,E0515FD1-9C31-4A63-9C95-447E80CB85CA,0x408800,0x5F800)/\EFI\ubuntu\grubx64.efi</string>
+                    <string>PciRoot(0x0)/Pci(0x1B,0x0)/Pci(0x0,0x0)/NVMe(0x1,7B-6D-B3-11-A1-38-25-00)/HD(1,GPT,07AB8DD8-53AB-45BC-AEA2-57C6C3182E0D,0x800,0xEE000)/\EFI\ubuntu\grubx64.efi</string>
                     <key>TextMode</key>
                     <false/>
                 </dict>
@@ -947,7 +947,7 @@
                 <key>ScanPolicy</key>
                 <integer>0</integer>
                 <key>SecureBootModel</key>
-                <string>Disabled</string>
+                <string>Default</string>
                 <key>Vault</key>
                 <string>Optional</string>
             </dict>
